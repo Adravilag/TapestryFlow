@@ -1,0 +1,12 @@
+# Ignorar directorios y archivos temporales
+tmp/
+__pycache__/
+*.pyc
+tapestryflow_env/
+screenshots/
+
+# Ignorar archivos específicos
+*.log
+*.sqlite3
+*.db
+.env
